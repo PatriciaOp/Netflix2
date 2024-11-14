@@ -4,4 +4,4 @@
 <br>
 
 <img src="https://github.com/PatriciaOp/Netflix2/blob/main/img/Captura%20de%20tela%202024-11-14%20161959.png?raw=true"/>
-<a src="https://patriciaop.github.io/Netflix2/">Acesse aqui:</a>
+<a href="https://patriciaop.github.io/Netflix2/">Acesse aqui:</a>
